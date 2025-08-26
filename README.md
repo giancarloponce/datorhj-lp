@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:giancarlohp@protonmail.com"><img src="https://img.shields.io/badge/Maila%20Oss-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Maila Oss"></a>
+  <a href="mailto:giancarlohp@protonmail.com"><img src="https://img.shields.io/badge/Maila%20Oss-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Maila Mig"></a>
   <a href="tel:[+46762520229]"><img src="https://img.shields.io/badge/Ring%20Mig-%2334A853?style=for-the-badge&logo=samsung-messages&logoColor=white" alt="Ring Mig"></a>
   <img src="https://img.shields.io/badge/RUT--Avdrag-50%25-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTE5IDE5SDVWNWg3VjNINVwyYy0xLjEgMC0yIC45LTIgMnYxNGMwIDEuMS45IDIgMiAyaDE0YzEuMSAwIDItLjkgMi0ydi03aC0ydjR6bS03LjUgOVYzbDIuNSAyLjUgMS40MS0xLjQxTDExIDBsLTQuOTEgNC45MSAxLjQxIDEuNDFMMTAgM3YxNS41eiIvPjwvc3ZnPg==" alt="RUT-Avdrag 50%">
 </p>
