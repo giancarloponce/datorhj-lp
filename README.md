@@ -44,7 +44,7 @@ Jag erbjuder två huvudkategorier av tjänster för att göra din vardag enklare
 
 ---
 
-## ✅ Varför Anlita Oss?
+## ✅ Varför Anlita Mig?
 
 * **Lokalt & Pålitligt:** Jag är verksam i **[Stockholm]** och värdesätter personlig service.
 * **Prisvärt:** Med RUT-avdraget betalar du bara halva arbetskostnaden. Vi sköter kontakten med Skatteverket.
