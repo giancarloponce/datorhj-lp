@@ -1,7 +1,7 @@
 <h1 align="center">Välkommen till min GitHub! 👋</h1>
 <p align="center">
-  <strong>Din mångsidiga tekniska konsult i Stockholm (Godkänd för F-skatt).</strong><br />
-  Från praktiska problem i hemmet till avancerad molninfrastruktur. Jag erbjuder expertis inom fyra huvudområden: Hemservice, Byggprojektering, Mjukvaruutveckling och DevOps.
+  <strong>Din mångsidiga tekniska konsult i Kumla (Godkänd för F-skatt).</strong><br />
+  Från praktiska problem i hemmet till avancerad molninfrastruktur. Jag erbjuder expertis inom fyra huvudområden: Hemservice, Byggprojektering, Mjukvaru- & Apputveckling och DevOps.
 </p>
 
 <p align="center">
@@ -21,13 +21,15 @@ För att göra din vardag enklare erbjuder jag praktisk hjälp hemma hos dig med
   <tr>
     <td width="50%" valign="top">
       <h3>💻 IT-Support & Teknikhjälp</h3>
+      <p><strong>För Windows-datorer:</strong></p>
       <ul>
-        <li>🌐 Nätverk & Wi-Fi-optimering</li>
-        <li>🖨️ Installation av dator, skrivare, router etc.</li>
-        <li>🐛 Felsökning av mjuk- & hårdvara</li>
-        <li>🛡️ Virusrensning & IT-säkerhet</li>
-        <li>🖥️ Support för Smart-TV, mobil & surfplatta</li>
-        <li>🎓 Enklare utbildning & köprådgivning</li>
+        <li><strong>Prestanda & Felsökning:</strong> Åtgärdar långsamma datorer, löser felmeddelanden, "blåskärmar" (BSOD) och program som kraschar.</li>
+        <li><strong>Säkerhet & Backup:</strong> Rensar virus/spionprogram och hjälper dig sätta upp säkra backuprutiner för dina viktiga filer.</li>
+        <li><strong>Installation & Uppgradering:</strong> Nyinstallation av Windows 10/11 för maximal prestanda samt installation av hårdvara som snabbare SSD-hårddiskar och RAM-minne.</li>
+      </ul>
+      <p><strong>För Linux-användare:</strong></p>
+       <ul>
+        <li>Installation av Linux (t.ex. Ubuntu) vid sidan av Windows (Dual Boot), grundläggande server-setup (NAS/Plex) och allmän felsökning.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -53,25 +55,37 @@ För företag, startups och utvecklare erbjuder jag avancerade konsulttjänster.
 - **Serverdrift & Administration:** Konfiguration, härdning och underhåll av Linux-servrar.
 - **Molninfrastruktur:** Design och hantering av resurser i AWS, Google Cloud eller Azure.
 - **Containerisering:** Bygga och hantera applikationer med Docker och Kubernetes (K8s).
-- **CI/CD & Automatisering:** Sätta upp pipelines för automatisk testning och driftsättning (t.ex. med Jenkins, GitHub Actions).
+- **CI/CD & Automatisering:** Sätta upp pipelines för automatisk testning och driftsättning.
 - **Infrastructure as Code (IaC):** Automatisera infrastruktur med verktyg som Terraform och Ansible.
-- **Övervakning & Logghantering:** Implementera lösningar för att säkerställa systemens stabilitet och prestanda.
 
 ### 📐 Byggprojektering (CAD/BIM)
 - **2D/3D CAD-ritningar:** Plan-, fasad- och sektionsritningar.
 - **BIM-modellering:** Intelligenta 3D-modeller för bättre projektering.
 - **Bygglovsritningar:** Fackmannamässiga ritningar för din bygglovsansökan.
 
-### ⌨️ Mjukvaruutveckling
+### ⌨️ Mjukvaru- & Apputveckling
+- **📱 Apputveckling (iOS, Android, Webbappar):** Från idé till fungerande prototyp (MVP) med modern teknik som Flutter och Firebase.
+- **Webbutveckling:** Allt från enkla "digitala visitkort" till avancerade, skräddarsydda webbapplikationer.
 - **Programmering:** Skräddarsydda skript, automatiseringar och algoritmer.
-- **Webbutveckling:** Från enklare hemsidor till webbapplikationer.
-- **Plugins & Integrationer:** Anpassade lösningar för befintliga system.
+
+---
+
+## 💡 Bra att Veta
+
+### Angående Windowslicenser
+Vid en nyinstallation av Windows på en dator utan giltig licens (t.ex. vid bygge av ny dator eller byte av moderkort) krävs en ny licensnyckel. Jag tillhandahåller och installerar endast 100% legitima, digitala licenser från auktoriserade källor för att garantera säkerhet och framtida uppdateringar.
+
+* **Kostnad för licens (produktkostnad, ej RUT-berättigad):**
+    * **Windows 11 Home:** ca 1 500 kr (inkl. moms)
+    * **Windows 11 Pro:** ca 2 600 kr (inkl. moms)
+
+*Detta är den faktiska kostnaden för själva mjukvarulicensen. Mitt arbete med installation och konfiguration debiteras enligt min vanliga RUT-berättigade timtaxa.*
 
 ---
 
 ## ✅ Varför Anlita Mig?
 * **Unik Bredd:** Från att montera din bokhylla till att driftsätta din applikation i molnet.
-* **Personlig Expertis:** Du har alltid direktkontakt med mig, en certifierad specialist baserad i **Stockholm**.
+* **Personlig Expertis:** Du har alltid direktkontakt med mig, en certifierad specialist baserad i **Kumla**.
 * **Flexibel Prissättning:** Tydliga priser för RUT-tjänster och skräddarsydda offerter för konsultuppdrag.
 * **F-skatt:** Jag är godkänd för F-skatt, vilket garanterar en trygg och professionell affär.
 
@@ -88,7 +102,7 @@ För IT-support och möbelmontering hemma hos dig. Priserna nedan är vad du som
 | **Därefter per påbörjad timme** |  **395 kr** |          (790 kr)           |
 
 <p align="center">
-  <i>Startavgiften inkluderar resa inom Stockholms tullar.</i>
+  <i>Startavgiften inkluderar resa inom Kumla tätort.</i>
 </p>
 
 ### Specialisttjänster (Prisguide exkl. moms)
@@ -100,8 +114,10 @@ För företag och projekt. Nedan följer exempel för att ge en uppfattning om i
 |                       | Löpande Drift (Retainer)           | Från 8 000 kr/mån                |
 | **CAD/BIM** | Bygglovsritningar (Tillbyggnad)    | Från 28 000 kr                   |
 |                       | 3D-visualisering (paket)           | Från 8 000 kr                    |
-| **Mjukvaruutveckling**| Hemsida (Företag)                  | Från 20 000 kr                   |
-|                       | Automations-skript                 | Från 8 000 kr                    |
+| **Mjukvaru- & Apputv.**| Hemsida (Startpaket)             | Från 5 900 kr                    |
+|                       | Hemsida (Anpassad Företagslösning) | Från 18 000 kr                   |
+|                       | App-prototyp (MVP)                 | Från 25 000 kr                   |
+
 
 <p align="center">
   <i>För löpande konsultation och uppdrag med flexibel omfattning är mitt timarvode från 1000 kr/timme (exkl. moms).<br>Kontakta mig för en kostnadsfri diskussion och en skräddarsydd offert för ditt projekt.</i>
