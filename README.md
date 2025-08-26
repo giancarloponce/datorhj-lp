@@ -1,6 +1,6 @@
 <h1 align="center">Välkommen till min GitHub! 👋</h1>
 <p align="center">
-  <strong>Din mångsidiga tekniska konsult i Kumla (Godkänd för F-skatt).</strong><br />
+  <strong>Din mångsidiga tekniska konsult i Stockholm (Godkänd för F-skatt).</strong><br />
   Från praktiska problem i hemmet till avancerad molninfrastruktur. Jag erbjuder expertis inom fyra huvudområden: Hemservice, Byggprojektering, Mjukvaru- & Apputveckling och DevOps.
 </p>
 
@@ -85,7 +85,7 @@ Vid en nyinstallation av Windows på en dator utan giltig licens (t.ex. vid bygg
 
 ## ✅ Varför Anlita Mig?
 * **Unik Bredd:** Från att montera din bokhylla till att driftsätta din applikation i molnet.
-* **Personlig Expertis:** Du har alltid direktkontakt med mig, en certifierad specialist baserad i **Kumla**.
+* **Personlig Expertis:** Du har alltid direktkontakt med mig, en certifierad specialist baserad i **Stockholm**.
 * **Flexibel Prissättning:** Tydliga priser för RUT-tjänster och skräddarsydda offerter för konsultuppdrag.
 * **F-skatt:** Jag är godkänd för F-skatt, vilket garanterar en trygg och professionell affär.
 
@@ -102,7 +102,7 @@ För IT-support och möbelmontering hemma hos dig. Priserna nedan är vad du som
 | **Därefter per påbörjad timme** |  **395 kr** |          (790 kr)           |
 
 <p align="center">
-  <i>Startavgiften inkluderar resa inom Kumla tätort.</i>
+  <i>Startavgiften inkluderar resa inom Stockholms tullar.</i>
 </p>
 
 ### Specialisttjänster (Prisguide exkl. moms)
