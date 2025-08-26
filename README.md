@@ -1,4 +1,4 @@
-<h1 align="center">Välkommen till in github! 👋</h1>
+<h1 align="center">Välkommen till min github! 👋</h1>
 <p align="center">
   <strong>Din lokala expert på IT-support och möbelmontering i Stockholm (Godkänd för F-skatt).</strong><br />
   Jag löser teknikstrul och förvandlar platta paket till färdiga möbler – snabbt, enkelt och direkt hemma hos dig. Kan även hjälpa till med att programmera automatiseringar, hemsidor, algorithmer. appar. plugins osv. det mesta inom IT.
